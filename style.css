@@ -1,0 +1,103 @@
+.body {
+  background-color: darkblue;
+}
+
+.card-container {
+  display: flex;
+  /* Use flexbox for horizontal layout */
+  justify-content: space-evenly;
+  /* Space items evenly along the horizontal axis */
+  gap: 20px;
+  /* Add some spacing between the cards */
+}
+
+.card {
+
+  /* Your card styles */
+  .card {
+    width: 300px;
+    /* Set the width of each card */
+    max-width: 400px;
+    /* Set the max witdh of each card */
+    background-color: #fff;
+    /* Card background color */
+    border: 1px solid #ccc;
+    /* Card border */
+    border-radius: 8px;
+    /* Rounded corners for the card */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    /* Card shadow */
+    padding: 20px;
+    /* Padding inside the card */
+    text-align: center;
+    /* Center card content */
+  }
+}
+
+.card-container2 {
+  display: flex;
+  /* Use flexbox for horizontal layout */
+  justify-content: space-evenly;
+  /* Space items evenly along the horizontal axis */
+  gap: 20px;
+  /* Add some spacing between the cards */
+}
+
+.card {
+
+  /* Your card styles */
+  .card {
+    width: 300px;
+    /* Set the width of each card */
+    background-color: #fff;
+    /* Card background color */
+    border: 1px solid #ccc;
+    /* Card border */
+    border-radius: 8px;
+    /* Rounded corners for the card */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    /* Card shadow */
+    padding: 20px;
+    /* Padding inside the card */
+    text-align: center;
+    /* Center card content */
+  }
+}
+
+.animation-floating-logo {
+  animation: alternate-reverse;
+  position: relative;
+}
+
+.craftnesia-reborn-img {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.footer-social {
+  width: 24;
+  height: 24;
+  display: flex;
+  align-items: center;
+}
+
+.teks-eksposisi {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.title .teks-eksposisi {
+  font-size: xx-large;
+}
+
+.title {
+  font-size: larger;
+}
+
+.judul {
+  font-size: larger;
+}
+
+.opening {
+  font-size: xx-large;
+}

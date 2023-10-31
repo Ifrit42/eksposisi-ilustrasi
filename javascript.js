@@ -1,0 +1,1 @@
+//kosong karena saya belum terlalu bisa JS
